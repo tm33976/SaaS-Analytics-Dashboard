@@ -2,6 +2,8 @@
 
 > A production-quality, fully responsive SaaS analytics dashboard built with **Vue 3** and **Pinia**. This project demonstrates a complete, feature-rich application that runs **100% serverless** by using browser `localStorage` as a persistent "database."
 
+▶️▶️ # Live Demo - https://my-saas-dashboard-rho.vercel.app/
+
 This is a portfolio-ready project designed to showcase mastery of the modern Vue.js ecosystem, component-based architecture, and complex, reactive state management. All data (users, sales, settings) is fetched from and persisted to `localStorage`, making it a full-stack, client-side application.
 
 ## ✨ Core Features
